@@ -1,6 +1,11 @@
 # todo-api-notes
+Created Date: 2024/06/24
 
 This is a simple todo notes API v.0.0.1.
+
+Technology: Uses springboot framework
+
+Storage: H2 in memory RDMS
 
 GitHub repo:https://github.com/dedetoya12242010/todo-api-notes.git
 
